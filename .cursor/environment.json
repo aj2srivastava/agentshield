@@ -1,0 +1,4 @@
+{
+  "name": "AgentShield",
+  "install": "npm ci && npm run build"
+}
