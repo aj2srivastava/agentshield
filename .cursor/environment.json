@@ -1,4 +1,5 @@
 {
   "name": "AgentShield",
-  "install": "npm ci && npm run build"
+  "install": "bash .cursor/cloud-agent-install.sh",
+  "start": "bash .cursor/cloud-agent-start.sh"
 }
